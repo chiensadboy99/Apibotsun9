@@ -1,0 +1,1 @@
+worker: python mini4.py
